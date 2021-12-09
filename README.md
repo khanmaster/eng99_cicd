@@ -1,4 +1,4 @@
 # CICD
 ## Github ssh set up
-### Webhooks
+### Webhooks testing
 ![](images/CICD.png)
