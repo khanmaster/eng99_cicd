@@ -4,7 +4,7 @@
 ### Staging 1
 ### Webhooks testing
 ![](images/CICD.png)
-- Testing webhook99 tech201
+- Testing CI with Github & Jenkins for tech201
 - testing CI with webook
 - new webhook added
 
