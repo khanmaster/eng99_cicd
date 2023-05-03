@@ -1,4 +1,4 @@
-# CICD with tech221 from localhost
+# CICD 
 ## Github ssh set up
 ### Testing Jenkins CI
 ### Staging 1
