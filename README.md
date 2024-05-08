@@ -5,7 +5,7 @@ clear
 
 
 
-# CICD testing cde
+# CICD testing cd
 ## CI testing with tech221 from localhost to Jenkins 
 ## Github ssh set up
 ### Testing Jenkins CI
